@@ -55,7 +55,7 @@ You will start with an HTML document that needs style. There are several ways to
 
 ## Contact
 
-Author: robert.mccreary@codex.academy
+Author: mandirodriguez@codex.academy
 
 ## Bonus and Extension
 
